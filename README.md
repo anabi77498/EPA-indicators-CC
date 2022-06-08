@@ -14,3 +14,6 @@ This project will have four major focuses and will touch upon 5 major Climate Ch
 3) Forest Fires and forest Ecosystems
 
 4) Health and Society (Human Development) as drivers of climate change
+
+
+There is a number of datasets associated with the IPYNB file and the file must be opened in the same directory as these datasets
