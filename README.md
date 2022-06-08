@@ -16,4 +16,16 @@ This project will have four major focuses and will touch upon 5 major Climate Ch
 4) Health and Society (Human Development) as drivers of climate change
 
 
-There is a number of datasets associated with the IPYNB file and the file must be opened in the same directory as these datasets
+There is a number of datasets associated with the IPYNB file and they must be downloaded in order for the file to use the data.
+
+The file must be opened in the same directory as these datasets
+
+1. GISTEMP Team, 2022: GISS Surface Temperature Analysis (GISTEMP), version 4. NASA Goddard Institute for Space Studies. Dataset accessed 20YY-MM-DD at https://data.giss.nasa.gov/gistemp/.
+​
+2. Berkley Earth. 2017. Climate Change Earth Surface Temperature Data, version 2. Retrieved 05/31/2022 from http://berkeleyearth.org/data/
+​
+3. Vivek, 2020, Environmental Impact of Food Production, version 1, Retrieved 05/31/2022 from https://www.kaggle.com/datasets/selfvivek/environment-impact-of-food-production
+​
+4. UCI Machine Learning, 2016, Forest Cover Type Dataset, version 1. Retrieved 05/31/2022 from https://www.kaggle.com/datasets/uciml/forest-cover-type-dataset
+​
+5. Global Footprint Network 2017, 2016 Global Ecological Footprint,version 1, Retrieved 05/31/2022 from https://www.kaggle.com/datasets/footprintnetwork/ecological-footprint
