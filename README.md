@@ -18,7 +18,7 @@ This project will have four major focuses and will touch upon 5 major Climate Ch
 
 There is a number of datasets associated with the IPYNB file and they must be downloaded in order for the file to use the data.
 
-The file must be opened in the same directory as these datasets
+The file must be opened in the same directory as these datasets which are not contained in this repository
 
 1. GISTEMP Team, 2022: GISS Surface Temperature Analysis (GISTEMP), version 4. NASA Goddard Institute for Space Studies. Dataset accessed 20YY-MM-DD at https://data.giss.nasa.gov/gistemp/.
 ​
